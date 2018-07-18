@@ -1,0 +1,22 @@
+{
+	"cv": {
+		"nombre":"Carlos",
+		"email":"carlos@gmail.com",
+		"descripcion":"Trabajador, amante de la tecnología, le gusta la pasta",
+		"fotografia":"https://i.ytimg.com/vi/5tJfsgaEu2g/maxresdefault.jpg",
+		"idiomas": [
+			{
+				"idioma":"Ingles",
+				"nivel": 2
+			},
+			{
+				"idioma":"Aleman",
+				"nivel": 1
+			},
+			{
+				"idioma":"Coreano",
+				"nivel": 9
+			}
+		]
+	}
+}

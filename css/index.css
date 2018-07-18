@@ -1,0 +1,47 @@
+table {
+    width: 30%;
+    table-layout: fixed;
+    border: 1px solid white;
+    margin: auto;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bolder;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.1);
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body {
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Oswald', sans-serif;   
+    color: white;
+}
+
+#datos {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    width: 30%;
+    margin: 3em auto;
+    font-weight: bolder;
+}
+
+#error{
+    text-align: center;
+    margin: 20%;
+    word-spacing:  .2em;
+}
+
+h2{
+    margin: 2em 0em;
+}
